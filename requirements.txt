@@ -1,6 +1,6 @@
 Django==2.2.13
 django-crispy-forms==1.8.0
-lxml==4.4.1
+lxml==4.6.3
 Pillow==6.2.1
 python-docx==0.8.10
 pytz==2019.3
